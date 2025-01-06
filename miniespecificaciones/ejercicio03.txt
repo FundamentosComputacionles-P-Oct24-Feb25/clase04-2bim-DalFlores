@@ -20,3 +20,4 @@
 // 30
 // 110
 //
+en este codigo existen 2 procedimientos por la razon de que la funcion retonarna el valor y el procedimiento no
